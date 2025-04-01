@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/k0d51/k0d51.github.io.git
+	branch = main
