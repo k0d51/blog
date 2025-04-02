@@ -35,6 +35,14 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/gcushen
+  - icon: brands/elibrary
+    url: https://www.elibrary.ru/project_user_office.asp
+  - icon: brands/orcid
+    url: https://orcid.org/0009-0005-6321-7148
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Kirill-Mikhalsky?ev=hdr_xprf
+  - icon: brands/academia
+    url: https://independent.academia.edu/KirillMikhalsky
 
 interests:
   - programming ngl
